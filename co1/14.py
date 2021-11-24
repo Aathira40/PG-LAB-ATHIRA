@@ -1,0 +1,5 @@
+n=input("enter number")
+x=int(n+n+n)
+y=int(n+n)
+z=int(n)
+print(x+y+z)
