@@ -1,7 +1,0 @@
-f1=open("file.txt","r")
-print(f1.readline())
-print(f1.readline())
-print(f1.readline())
-f1.seek(0,0)
-print(f1.readlines())
-print()
